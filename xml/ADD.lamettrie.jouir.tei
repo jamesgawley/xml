@@ -1,0 +1,1946 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title type="artfl">L'Art de jouir</title>
+         <author type="artfl">La Mettrie, Julien Offray de, 1709-1751.</author>
+         <respStmt> 
+             <resp>ARTFL Project, University of Chicago</resp>
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address><addrLine></addrLine></address>
+         </distributor>
+      </publicationStmt>
+      <sourceDesc>
+         <bibl>
+         <title>L'Art de jouir</title>
+         <author>La Mettrie, Julien Offray de, 1709-1751.</author>
+            <creation>
+                  <date>1751</date>
+            </creation>
+            <imprint type="artfl">Ed. Maurice Solovine (Paris : Editions Bossard, 1921)</imprint>
+	       <imprint>
+            </imprint>
+	    <idno type="shrtcite">LMet:ArtJ</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+
+   <encodingDesc>
+       <projectDesc>
+	Most of these documents have been entered without introductions
+        and other material not written by the author.  Notes and other
+        features have not been included.  Very long quotations have also
+        been excluded.
+       </projectDesc>
+   </encodingDesc>
+
+   <profileDesc>
+       <creation>
+            <date>1751</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term>traite</term>
+            </keywords>
+	    <keywords scheme="authorgender">
+		<term>M</term>
+	    </keywords>
+	    <keywords scheme="form">
+	    </keywords>
+	    <keywords scheme="subject">
+	    </keywords>
+            <keywords scheme="marc">
+            </keywords>
+	    <keywords scheme="ARTFLcollection">
+		 <term>ARTFL Additions</term>
+	    </keywords>
+
+	</textClass>
+   </profileDesc>
+
+   <revisionDesc>
+      <p>
+      Automatic Conversion from ATE: Wed Aug 17 13:14:26 CDT 2005
+  
+      </p>
+      <p>
+      </p>
+   </revisionDesc>
+</teiHeader>
+
+
+<text>
+<div1 type="INSERTED">
+<head>L'Art de jouir</head>
+
+<p>
+
+<pb n="145"/>
+et quibus ipsa modis tractetur blanda voluptas.
+lucrèce.
+<pb n="147"/>
+<br/>
+Plaisir, <pn>Maître</pn> souverain des hommes et
+des dieux, devant qui tout disparaît, jusqu'à
+la raison même, tu sais combien mon coeur
+t'adore, et tous les sacrifices qu'il t'a faits. J'ignore
+si je mériterai d'avoir part aux éloges que je te
+donne ; mais je me croirais indigne de toi, si je
+n'étais attentif à m'assurer de ta présence, et à me
+rendre compte à moi-même de tous tes bienfaits.
+la reconnaissance serait un trop faible tribut, j'y
+ajoute encore l'examen de mes sentiments les plus
+doux.
+   <pn>Dieu</pn> des belles âmes, charmant plaisir, ne permets
+pas que ton pinceau se prostitue à d'infâmes
+voluptés, ou plutôt à d'indignes débauches qui
+font gémir la <pn>Nature</pn> révoltée. Qu'il ne peigne que
+les feux du fils de <pn>Cypris</pn>, mais qu'il les peigne
+avec transport. Que ce <pn>Dieu</pn> vif, impétueux,
+ne se serve de la raison des hommes que pour la
+<pb n="148"/>
+<br/>
+leur faire oublier ; qu'ils ne raisonnent que pour
+exagérer leurs plaisirs et s'en pénétrer ; que la
+froide <pn>Philosophie</pn> se taise pour m'écouter. Je sens
+les respectables approches de la volupté.
+
+</p>
+<p>
+Disparaissez, courtisanes impudiques! Il sortit
+moins de maux de la boîte de <pn>Pandore</pn>, que du
+sein de vos plaisirs. Eh! Que dis-je! Des plaisirs!
+en fut-il jamais sans les sentiments du coeur?
+plus vous prodiguez vos faveurs, plus vous offensez
+l'amour qui les désavoue. Livrez vos corps aux
+satyres ; ceux qui s'en contentent, en sont dignes:
+mais vous ne l'êtes pas d'un coeur né sensible. Vous
+vous prostituez en vain, en vain vous cherchez à
+m'éblouir par des charmes vulgivagues : ce n'est
+point la jouissance des corps, c'est celle des âmes
+qu'il me faut. Tu l'as connue, <pn>Ninon</pn>, cette jouissance
+exquise durant le cours de la plus belle vie;
+tu vivias étemellement dans les fastes de l'amour.
+</p>
+<p>
+Vous, qui baissez les yeux aux paroles chatouilleuses,
+précieuses et prudes, loin d'ici! La volupté
+est dispensée de vous respecter, d'autant
+plus que vous n'êtes pas vous-mêmes, à ce qu'on
+dit, si austères dans le déshabillé. Loin d'ici
+surtout race dévote, qui n'avez pas une vertu
+pour couvrir vos vices!
+</p>
+<p>
+Belles, qui voulez consulter la raison pour
+aimer, je ne crains pas que vous prêtiez l'oreille à
+mes discours ; elle n'en sera point alarmée. La
+<pb n="149"/>
+<br/>
+raison emprunte ici, non le langage, mais le
+sentiment des <pn>Dieux</pn>. Si mon pinceau ne répond
+pas à la finesse et à la délicatesse de votre façon de
+sentir, favorisez-moi d'un seul regard ; et l'amour
+qui s'est plu à vous former, qui s'admire sans cesse
+dans le plus beau de ses ouvrages, fera couler de
+ma plume la tendresse et la volupté, qu'il semblait
+avoir réservées pour vos coeurs.
+</p>
+<p>
+Je ne suivrai point les traces de ces beaux esprits,
+précieusement néologues et puérilement
+entortillés ; ce vil troupeau d'imitateurs d'un froid
+modèle glacerait mon imagination chaude et
+voluptueuse ; un art trop recherché ne me conduirait
+qu'à des jeux d'enfants que la raison proscrit,
+ou à un ordre insipide que le génie méconnaît et
+que la volupté dédaigne. Le bel esprit du siècle
+ne m'a point corrompu ; le peu que la <pn>Nature</pn> m'en
+réservait, je l'ai pris en sentiments. Que tout ressente
+ici le désordre des passions, pourvu que le
+feu qui m'emporte soit digne, s'il se peut, du <pn>Dieu</pn>
+qui m'inspire!
+</p>
+<p>
+Auguste <pn>Divinité</pn>, qui protégeas les chants immortels
+de <pn>Lucrèce</pn>, soutiens ma faible voix.
+esprits mobiles et déliés, qui circulez librement
+dans mes veines, portez dans mes écrits cette
+ravissante volupté que vous faites sans cesse voler
+dans mon coeur.
+</p>
+<p>
+O vous, tendres, naïfs ou sublimes interprètes
+<pb n="150"/>
+<br/>
+de la volupté, vous qui avez forcé les <pn>Grâces</pn> et
+les <pn>Amours</pn> à une éternelle reconnaissance, ah!
+faites que je la partage. S'il ne m'est pas donné de
+vous suivre, laissez-moi du moins un trait de
+flamme qui me guide, comme ces comètes qui
+laissent après elles un sillon de lumière qui montre
+leur route.
+</p>
+<p>
+Oui, vous seuls pouvez m'inspirer, enfants
+gâtés de la <pn>Nature</pn> et de l'<pn>Amour</pn>, vous que ce
+<pn>Dieu</pn> a pris soin de former lui-même, pour servir
+à des projets dignes de lui, je veux dire, au bonheur
+du genre humain ; échauffez-moi de votre
+génie, ouvrez-moi le sanctuaire de la <pn>Nature</pn>,
+éclairé par l'amour ; nouveau, mais plus heureux
+<pn>Prométhée</pn>, que j'y puise ce feu sacré de la
+volupté, qui dans mon coeur, comme dans son
+temple, ne s'éteigne jamais ; et qu'<pn>Épicure</pn> enfin
+paraisse ici, tel qu'il est dans tous les coeurs.
+ô <pn>Nature</pn>, ô <pn>Amour</pn>, puissé-je faire passer dans
+l'éloge de vos charmes tous les transports avec
+lesquels je sens vos bienfaits!
+</p>
+<p>
+Venez, <pn>Phylis</pn>, descendons dans ce vallon tranquille;
+tout dort dans la <pn>Nature</pn>, nous seuls sommes
+éveillés ; venez sous ces arbres, où l'on n'entend
+que le doux bruit de leurs feuilles ; c'est le
+<pn>Zéphire</pn> amoureux qui les agite ; voyez comme
+elles semblent planer l'une sur l'autre et vous font
+signe de les imiter.
+<pb n="151"/>
+<br/>
+</p>
+<p>
+Parlez, <pn>Phylis</pn>, ne sentez-vous pas quelque
+mouvement délicat, quelque douce langueur qui
+vous est inconnue? Oui, je vois l'heureuse impression
+que vous fait ce mystérieux asile ; le
+brillant de vos yeux s'adoucit, votre sang coule
+avec plus de vitesse, il élève votre beau sein, il
+anime votre coeur innocent.
+</p>
+<p>
+En quel état suis je! Quels nouveaux sentiments,
+dites-vous!... Venez, <pn>Phylis</pn>, je vous les
+expliquerai.
+</p>
+<p>
+Votre vertu s'éveille, elle craint la surprise
+même qu'elle a ; la pudeur semble augmenter
+vos inquiétudes avec vos attraits ; votre gloire
+rejette l'amour, mais votre coeur ne le rejette pas.
+</p>
+<p>
+Vous vous révoltez en vain, chacun doit suivre
+son sort ; pour être heureux il n'a manqué au
+vôtre que l'amour ; vous ne vous pnverez pas
+d'un bonheur qui redouble en se partageant ; vous
+n'éviterez pas les pièges que vous tendez à l'<pn>Univers</pn>:
+qui balance a pris son parti.
+</p>
+<p>
+O si vous pouviez seulement sentir l'ombre des
+plaisirs que goûtent deux coeurs qui se sont donnés
+l'un à l'autre, vous redemanderiez à <pn>Jupiter</pn> tous
+ces ennuyeux moments, tous ces vides de la vie
+que vous avez passés sans aimer!
+</p>
+<p>
+Quand une belle s'est rendue, qu'elle ne vit
+plus que pour celui qui vit pour elle ; que ses
+refus ne sont plus qu'un jeu nécessaire ; que la
+<pb n="152"/>
+<br/>
+tendresse qui les accompagne autorise d'amoureux
+larcins, et n'exige plus qu'une douce violence;
+que deux beaux yeux, dont le trouble augmente
+les charmes, demandent en secret ce que la
+bouche refuse ; que l'amour éprouvé de l'amant
+est couronné de myrtes par la vertu même ; que
+la mison n'a plus d'autre langage que celui du
+coeur ; que... Les expressions me manquent, <pn>Phylis</pn>,
+tout ce que je dis n'est pas même un faible songe
+de ces plaisirs. Aimable faiblesse! Douce extase!
+c'est en vain que l'esprit veut vous exprimer, le
+coeur même ne peut vous comprendre.
+</p>
+<p>
+Vous soupirez, vous sentez les douces approches
+du plaisir! <pn>Amour</pn>, que tu es adorable! Si ta
+seule peinture peut donner des désirs, que ferais-tu
+toi-même?
+</p>
+<p>
+Jouissez, <pn>Phylis</pn>, jouissez de vos charmes:
+n'être belle que pour soi, c'est l'être pour le tourment
+des hommes.
+</p>
+<p>
+Ne craignez ni l'amour, ni l'amant ; une fois
+maîtresse de mon coeur, vous le serez toujours.
+la vertu conserve aisément les conquêtes de la
+beauté.
+</p>
+<p>
+J'aime, comme on aimait avant qu'on eût appris
+à soupirer, avant qu'on eût fait un art de jurer la
+fidélité. Amour est pauvre : je n'ai qu'un coeur à
+vous offrir, mais il est tendre comme le vôtre.
+unissons-les, et nous connaîtrons à la fois le
+<pb n="153"/>
+<br/>
+plaisir, et cette tendresse plus séduisante qui
+conduit à la plus pure volupté des coeurs.
+</p>
+<p>
+Quels sont ces deux enfants de différent sexe
+qu'on laisse vivre seuls paisiblement ensemble?
+qu'ils seront heureux un jour! Non, jamais
+l'amour n'aura eu de si tendres, ni de si fidèles
+serviteurs. Sans éducation et par conséquent sans
+préjugés, livrés sans remords à une mutuelle sympathie,
+abandonnés à un instinct plus sage que la
+raison, ils ne suivront que ce tendre penchant de
+la <pn>Nature</pn>, qui ne peut être criminel, puisqu'on
+ne peut y résister.
+</p>
+<p>
+Voyez ce jeune garçon ; déjà il n'est plus homme
+sans s'en apercevoir. Quel nouveau feu vient
+de s'allumer dans ses veines! Quel chaos se débrouille!
+il n'a plus les mêmes goûts, ses inclinations
+changent avec sa voix. Pourquoi ce qui l'amusait
+l'ennuie-t-il? Tout occupé, tout étonné de
+son nouvel être, il sent, il désire, sans trop savoir
+ce qu'il sent, ni ce qu'il désire : il entrevoit seulement,
+par l'envie qu'il a d'être heureux, la puissance
+de le devenir. Ses désirs confus forment une
+espèce de voile, qui dérobe à sa vue le bonheur
+qui l'attend. Consolez-vous, jeune berger, le
+flambeau de l'amour dissipera bientôt les nuages
+qui retardent vos beaux jours ; les plaisirs après
+lesquels vous soupirez ne vous seront pas toujours
+inconnus ; la <pn>Nature</pn> vous en offrira partout
+<pb n="154"/>
+<br/>
+l'image ; deux animaux s'accoupleront en votre
+présence ; vous verrez des oiseaux se caresser
+sur une branche d'arbre, qui semble obéir à leurs
+amours.
+</p>
+<p>
+Tout vous est de l'<pn>Amour</pn> une leçon vivante. 
+</p>
+<p>
+Que de réflexions vont naître de ce nouveau
+spectacle! Jusqu'où la curiosité ne portera-t-elle
+pas ses regards! L'amour l'aiguillonne ; il veut
+instruire l'un par l'autre ; il a fait la gorge de la
+bergère différente de celle du berger ; elle ne peut
+respirer sans qu'elle s'élève, c'est son langage ; il
+semble qu'elle veuille forcer les barrières de la
+pudeur, comme indignée d'une contrainte qui la
+fâche. Pensées naïves, désirs innocents, tendres
+inquiétudes, tout se dit sans fard ; le coeur s'ouvre,
+on ne se dissimule aucuns sentiments ; ils sont
+trop nouveaux, trop vifs, pour être contenus.
+</p>
+<p>
+Mais n'y aurait-il point encore d'autre différence?
+oh oui! Et même beaucoup plus considérable;
+voyez cette rose que le trop heureux
+hymen reçoit quelquefois des mains de l'<pn>Amour</pn>:
+rose vermeille, dont le bouton est à peine éclos
+qu'elle veut être cueillie ; rose charmante, dont
+chaque feuille semble couverte et entourée d'un
+fin duvet, pour mieux cacher les <pn>Amours</pn> qui y
+sont nichés et les soutenir plus mollement dans
+leurs ébats.
+<pb n="155"/>
+<br/>
+</p>
+<p>
+Surpris de la beauté de cette fleur, avec quelle
+avidité le berger la considère! Avec quel plaisir
+il la touche, la parcourt, l'examine! Le trouble
+de son coeur est marqué dans ses yeux.
+</p>
+<p>
+La bergère est aussi curieuse d'elle-même pour
+la première fois ; elle avait déjà vu son joli minois
+dans un clair ruisseau ; le même miroir va lui
+servir pour contempler des charmes secrets qu'elle
+ignorait.
+</p>
+<p>
+Mais elle découvre à son tour combien <pn>Daphnis</pn>
+lui ressemble. Qu'elle lui rend bien sa surprise!
+frappée d'une si prodigieuse différence, toute
+émue, elle y porte la main en tremblant ; elle le
+caresse, elle en ignore l'usage, elle ne comprend
+pas pourquoi son coeur bat si vite, elle ne se connaît
+presque plus ; mais enfin, lorsque revenue à
+elle-même, un trait de lumière a passe dans son
+coeur, elle le regarde comme un monstre, la chose
+lui paraît absolument impossible, elle ne conçoit
+pas encore, la pauvre <pn>Agnès</pn>, tout ce que peut
+l'amour.
+</p>
+<p>
+L'idée du crime n'a point été attachée à toutes
+ces recherches amoureuses ; elles sont faites par de
+jeunes coeurs qui ont besoin d'aimer, avec une
+pureté d'âme que jamais n'empoisonna le repentir.
+heureux enfants! Qui ne voudrait l'être comme
+vous? Bientôt vos jeux ne seront plus les mêmes,
+mais ils n'en seront pas moins innocents ; le plaisir
+<pb n="156"/>
+<br/>
+n'habita jamais des coeurs impurs et corrompus.
+quel sort plus digne d'envie! Vous ignorez ce que
+vous êtes l'un à l'autre ; cette douce habitude de
+se voir sans cesse, la voix du sang ne déconcerte
+point l'<pn>Amour;</pn> il n'en vole que plus vite auprès
+de vous, pour serrer vos liens et vous rendre plus
+fortunés. Ah! Puissiez-vous vivre toujours ensemble
+et toujours ignorés dans cette paisible
+solitude, sans connaître ceux qui vous ont donné
+le jour! Le commerce des hommes serait fatal à
+votre bonheur ; un art imposteur corromprait la
+simple <pn>Nature</pn>, sous les lois de laquelle vous vivez
+heureux : en perdant votre innocence, vous perdriez
+tous vos plaisirs.
+</p>
+<p>
+Que vois-je! C'est <pn>Isménias</pn>, qui est sur le point
+d'enlever l'objet de ses désirs. Son bonheur est
+peint dans ses yeux, il éclate sur sa figure ; et du
+fond de son coeur, par une sorte de circulation
+nouvelle, il paraît répandu sur tout son être. Il
+parle d'<pn>Ismène</pn>, écoutons. Qu'il a l'air content et
+ravi!
+</p>
+<p>
+Enfin, dit-il, je vais donc posséder celle que
+mon coeur adore! Je vais jouir du fruit de la plus
+belle victoire. <pn>Dieux</pn>! Que cette conquête m'a
+coûté! Mais qui soumet un coeur tel que celui
+d'<pn>Ismène</pn>, a conquis l'<pn>Univers</pn>.
+</p>
+<p>
+Il fait l'éloge de ses charmes. Toutes les femmes
+n'ont que des visages, <pn>Ismène</pn> seule a de la 
+<pb n="157"/>
+<br/>
+physionomie. On sent, on pense toujours avec ces
+traits-là; mais par quel heureux mélange de couleurs
+est-on embarrassé de dire s'il y a plus de
+sentiment que d'esprit dans ses yeux!
+   <pn>Ismène</pn> ignore le parti qu'a pris son amant:
+elle lui avait défendu de tenter une entrepri se
+aussi délicate. Mais il faut épargner à ce qu'on
+aime jusqu'à la moindre inquiétude : il n'y a point
+à balancer ; on obéit à l'amour, en désobéissant
+à l'amante. Le devoir est tout en amour comme
+en guerre, et le peril n'est rien. Plus la démarche
+est téméraire, plus <pn>Ismène</pn> sera sensible... Ah! Que
+l'amour donne de courage! Ah! Que cette preuve
+de tendresse lui sera chère, et qu'elle en saura un
+jour bon gré à son amant!
+   <pn>Isménias</pn>, près d'arriver chez <pn>Ismène</pn>, la croit
+déjà partie sur un faux rapport ; il ne comprend
+pas comment il a pu la manquer sur la route ; il
+s'agite, il délibère, quel parti prendre? Hélas!
+est-il en état d'en prendre un? Il retourne sur
+ses pas, on le prendrait pour un insensé: égaré,
+se connaissant à peine, il court nuit et jour, il
+ne rencontre point <pn>Ismène</pn>, il tremble qu'elle
+n'arrive la première au rendez-vous. O <pn>Dieux</pn>!
+o <pn>Amour</pn>! Quelles eussent été ses inquiétudes de
+n'y point trouver son amant!
+</p>
+<p>
+Mieux instruit ensuite au moment qu'il s'en
+flatte le moins, quelle heureuse révolution! Quelle
+<pb n="158"/>
+<br/>
+brillante sérénité relève un front abattu! Comme il
+</p>
+<p>
+Il baise cent fois le billet d'<pn>Ismène</pn>, il l'arrose
+de ses larmes, il revole sur ses premiers pas. Rien
+ne fatigue, rien ne coûte quand on aime ; la distance
+des lieux est bientôt franchie par les ailes
+de l'<pn>Amour</pn>.
+</p>
+<p>
+Par la joie de l'amant, jugez de celle de l'amante,
+lorsqu'elle entendra cette histoire de la
+bouche même d'<pn>Lsménias;</pn> et devinez, si vous
+pouvez, lequel des deux va goûter le plus pur contentement!
+si les plaisirs augmentent par les
+peines, que j'envie votre sort, <pn>Isménias</pn>!
+</p>
+<p>
+Ils se revoient enfin, ils veulent en vain parler;
+mais à la vivacité de leur silence et de leurs caresses
+qu'on voit bien que la parole est un faible organe
+du sentiment! Ont-ils enfin repris l'usage de
+la voix? Grands <pn>Dieux</pn>! Quels entretiens! Se
+racontent-ils tout ce qui se passe dans l'<pn>Univers</pn>?
+non, ils ont bien plus de choses à se dire, ils
+s'aiment, ils se retrouvent après une longue et
+trop cruelle absence. Qui pourrait redire ici leurs
+discours, et plutôt encore leur joie que leurs plaisirs?
+il faudrait sentir comme eux, il faudrait
+s'être trouvé dans la même situation délicieuse.
+   <pn>Ismène</pn>, je l'ai prévu, n'oubliera jamais ce qu'a
+fait <pn>Isménias;</pn> elle ne quitte point une fortune
+<pb n="159"/>
+<br/>
+brillante, ce serait un petit sacrifice à ses yeux;
+c'est elle-même qu'elle sacrifie. Pour qui? Pour
+un amant dont l'amour fait toute la richesse.
+</p>
+<p>
+Le plaisir appelle <pn>Ismène</pn>, il lui tend les bras,
+il lui montre une chaine de fleurs. Refusera-t-elle
+un <pn>Dieu</pn> jeune, aimable, qui ne veut que sa félicité?
+c'en est fait ; "le conseil en est pris, quand
+"l'<pn>Amour</pn> l'a donné". Mais de combien de sentiments
+divers elle est agitée, et quelles singulières
+conditions elle impose à son amant!
+"vous voyez, dit-elle, <pn>Isménias</pn>, tout ce que
+"je fais pour vous. Je ne pourrai reparaître dans
+"l'<pn>Univers</pn>, les préjugés y tiennent un rang trop
+"considérable ; et si je vous perds (tombe sur
+"moi plutôt la foudre!) je n'ai d'autre ressource
+"que la mort. Je ne vous parle point de l'ingratitude, 
+"de l'infidélité, de l'inconstance, du mépris... 
+"car qu'en sais-je! Et combien me repentirai-
+"je peut-être de cette démarche, quand il
+"n'en sera plus temps! Mais que dis-je! Non,
+"<pn>Isménias</pn>, vous ne ressemblerez point aux autres
+"hommes ; non, vous ne séduirez pas la vertu
+"pour l'abandonner aux plus vifs regrets. Je vous
+"fais injure,je suis sûre de vous,je vous ai choisi;
+"et si cela n'était pas, à quoi me servirait de
+"prevoir un malheur que je n'aurais pas la force
+"de prévenir. Mais cependant, quelque empire
+"que l'amour ait sur mon coeur, j'aurai celle d'en
+<pb n="160"/>
+<br/>
+"rester aux termes ou nous en sommes : jamais,
+"comptez-y, vous ne serez mon amant tout à
+"fait. "<pn>Ismène</pn> l'eût juré par le <pn>Styx</pn>.
+   <pn>Ismenias</pn> gémit, il est désolé, il ne conçoit pas
+la trop rigoureuse loi d'un coeur sensible. "tendre
+"et cruelle <pn>Ismène</pn>, quoi! Vous m'aimez et vous
+"ne ferez pas tout pour moi! "" il m'en coûtera
+"peut-être plus qu'à vous, interrompit-elle,
+"mais la tendresse est la volupté des coeurs. Ce
+"que je vous refuse en plaisirs, vous l'aurez en
+"sentiments. Il n'y a pas dans toute mon âme
+"un seul mouvement qui ne m'approche de vous,
+"un seul soupir qui ne tende vers les lieux où le
+"destin vous appelle. Ne sentez-vous donc point,
+"<pn>Isménias</pn>, le prix de tant d'amour, le prix d'un
+"coeur qui sait aimer, dans ces moments où les
+"autres femmes ne savent que jouir? "
+</p>
+<p>
+L'amour est éloquent ; <pn>Isménias</pn> aurait pu
+déployer toute sa rhétorique ; il aurait pu vanter
+son expétience, son adresse, persuader, peut-être
+convaincre... Mais il n'était pas temps, la retenue
+était nécessaire ; en pareil cas, il s'agit moins de
+séduire que d'obéir et de dissiper les craintes.
+quand l'heure du berger n'a pas sonné, il serait
+heureux que certaines poursuites ne fussent
+qu'inutiles ; un à compte demandé mal à propos a
+souvent fait perdre toute la dette de l'amant.
+</p>
+<p>
+Notre amoureux était trop initié dans les 
+<pb n="161"/>
+<br/>
+mystères de <pn>Paphos</pn>, pour ne pas contenir l'impétuosité
+de ses désirs. Il fut même si sage jusqu'au
+départ que la <pn>Belle</pn>, à ce qu'on dit, craignit d'avoir
+trop exigé.
+</p>
+<p>
+Mais déjà les mesures sont prises, et bien
+prises ; la circonspection d'<pn>Ismène</pn> ne souffre
+</p>
+<p>
+Pourquoi de si cruels retours? Un coeur sans
+artifice devrait-il connaître les remords? Ouoi! Ces
+bourreaux déchirent sans pitié le coeur d'<pn>Ismène</pn>?
+elle craint les suites d'une démarche aussi hardie;
+elle tremble d'être reconnue ; elle se reproche
+tout, jusqu'aux hommages rendus à une vertu
+qu'elle ne croit pas avoir. Que cette simplicité est
+belle et honnête! Elle s'accuse d'avoir joué la
+sagesse, d'avoir trompé les hommes et les <pn>Dieux</pn>.
+"jusqu'ici, dit-elle, on n'a respecté en moi qu'une
+"trompeuse idole, qu'un masque imposteur ; le
+"rôle que je vais faire ne sera pas plus vrai. In"
+digne des honneurs que je recevrai... Ah <pn>Dieux</pn>!
+"une âme bien née peut-elle se manquer ainsi à
+"elle-même? Ô <pn>Vénus</pn>! Pourquoi faut-il que je
+"sois destinée à être ta proie, comme celle des
+"remords? "
+   <pn>Amour</pn>, tant que tu souffriras un reste de raison
+dans ton <pn>Empire</pn>, tes sujets seront malheureux.
+<pn>Ismène</pn> n'est éperdue que parce qu'elle ne l'est
+<pb n="162"/>
+<br/>
+pas assez ; son faible coeur ne conçoit pas qu'il
+s'est donné malgré lui, après n'avoir que trop
+combattu.
+"non, charmante <pn>Ismène</pn>, l'honneur et l'amour 
+"ne sont point incompatibles ; ils subsistent
+"ensemble, ils s'éclairent, ils s'illustrent, quand
+"une fidélité, une confiance à toute épreuve, un
+"attachement inviolable, sentiments de la plus
+"belle âme, ne l'abandonnent jamais. Loin que
+"l'<pn>Amour</pn> conduit, s'il se peut, par la prudence
+"soit une source de mépris, ah, belle <pn>Ismène</pn>,
+"qu'une femme qui sait aimer est un être
+"rare et respectable! On devrait lui dresser des
+"autels. "
+   <pn>Isménias</pn> ayant ainsi rassuré sa maîtresse inquiète,
+nos tendres amants partent enfin ; ils
+voudraient déjà être au bout du monde. Plus d'alarmes,
+la joie succède aux craintes, et le doux
+plaisir à la joie. Déjà <pn>Ismène</pn> est enflammée par
+mille discours tendres et par mille baisers de feu.
+on permet à <pn>Isménias</pn> ces anciennes privautés, ces
+équivalents d'amour qui n'en sont point, et dont
+aussi le fripon se contentait à peine. Les chemins
+disparaissent ; les postes se font comme par des
+chevaux ailés ; quelquefois on ne va que trop vite,
+on n'arrive que trop promptement ; si la prudente
+volupté transporte moins nos coeurs, elle les amuse
+davantage. "ton plaisir, dit <pn>Isménias</pn>, n'est que
+<pb n="163"/>
+<br/>
+"l'ombre de ceux que peuvent goûter deux
+"coeurs parfaitement unis. "
+</p>
+<p>
+Les amants en reviennent toujours là: ont-ils
+tort? C'est le but de l'amour ; il ne bat que d'une
+aile lorsqu'il est seul ; en compagnie il n'en a
+point ; tête à tête il en a mille.
+   <pn>Ismène</pn> n'eut pas de peine à détourner la conversation
+sur le plaisir des hommes et des femmes.
+ce sont les hommes, à son avis, qui ont le plus
+de plaisir ; <pn>Isménias</pn> croit que ce sont les femmes.
+les autres sont toujours plus heureux que nous.
+la dispute durait encore, lorsque, après avoir couru
+dans la nuit plus avant qu'<pn>Isménias</pn> n'eût voulu, il
+goûta enfin pour la première fois cette volupté
+libre, commode et en quelque sorte universelle,
+après laquelle il soupirait depuis longtemps. Il s'en
+faut de peu que nos amants ne soient vraiment
+unis ; ils meurent tour à tour et plus d'une fois,
+dans les bras l'un de l'autre ; mais plus on sent
+le plaisir, plus on désire vivement celui qu'on n'a
+pas.
+   <pn>Ismène</pn> éperdue se connaît à peine ; jusqu'ici
+elle n'avait voulu que s'amuser, dirai-je, à l'ombre
+de la volupté? Jeux d'enfants aujourd'hui! Tous
+les feux de l'amour n'ont rien de trop pour elle;
+que dis-je! Ils sont trop faibles, séparés ; pour
+les augmenter, elle veut les unir, quoi qu'il en
+puisse arriver. "jamais, dit-elle en modérant ses
+<pb n="164"/>
+<br/>
+"transports, je ne serai femme de la façon d'un
+"autre amant ; mais qu'il faut s'aimer pour
+"consentir à l'être de cette fabrique-là! "<pn>Isménias</pn>
+ravi, tout en la rassurant, la ménageait si
+singulièrement, s'avançait peu à peu si doucement
+dans la carrière, et prépara enfin si bien sa victoire
+qu'<pn>Ismène</pn> fit un cri... Amour, tu te joues
+des projets de nos faibles coeurs! Mais sous quel
+autre empire seraient-ils plus heureux?
+</p>
+<p>
+Qu'entends-je! Quels gémissements! L'affliction
+est peinte sur le visage du plus tendre amant!
+les pleurs coulent de ses yeux ; il touche à la plus
+cruelle absence. C'est un jeune guerrier, que l'honneur
+et le devoir obligent de devancer son prince
+en campagne. Il part demain, plus de délai, il n'a
+plus qu'une nuit à passer avec ce qu'il aime;
+l'amour en soupire.
+</p>
+<p>
+Mais quels vont être ces adieux! Et oomment
+les peindrai-je? Si la joie est commune, la tristesse
+l'est aussi ; les larmes de la douleur sont
+confondues avec celles du plaisir, qui en est plus
+tendre. Que d'incertains soupirs! Quels regrets!
+quels sanglots! Mais en mème temps quelle
+volupté d'âme et quels transports! Quel redoublement
+de vivacité dans les caresses de ces tristes
+amants! Les délices qu'ils goûtent en ce moment
+même, qu'ils ne goûteront plus le moment
+suivant ; le trouble où la plus périlleuse absence
+<pb n=""/>
+<br/>
+i65
+va les jeter, tout cela s'exprime par le plaisir et
+s'abîme dans lui-même ; mais puisqu'il sert à
+rendre deux passions diverses, il va donc être
+doublé pour cette nuit. Doublé! Ah! Que dis-je!
+il sera multiplié à l'infini ; ces heureux amants
+vont s'enivrer d'amour, comme s'ils en voulaient
+prendre pour le reste de leur vie. Leurs premiers
+transports ne sont que feu ; les suivants les surpassent;
+ils s'oublient ; leurs corps lubriquement
+étendus l'un sur l'autre et dans mille postures
+recherchées, s'embrassent, s'entrelacent, s'unissent;
+leurs âmes plus étroitement unies s'embrasant
+alternativement et tout ensemble ; la volupté
+va les chercher jusqu'aux extrémités d'eux-mêmes;
+et non contente des voies ordinaires, elle s'ouvre
+des passages au travers de tous les pores, comme
+pour se communiquer avec plus d'abondance:
+semblable à ces sources qui, trop resserrées par
+l'étroit tuyau dans lequel elles serpentent, ne se
+contentent pas d'une issue aussi large qu'elles-mêmes,
+crèvent et se font jour en mille endroits;
+telle est l'impétuosité du plaisir.
+</p>
+<p>
+Quels sont alors les propos de ces amants! S'ils
+parlent de leurs plaisirs présents, s'ils parlent de
+1eurs regrets futurs, c'est encore le plaisir qui exprime
+ces divers sentiments, c'est l'interprète du
+coeur. Ce je ne vous verrai plus se dit avec tendresse;
+il se dit encore avec passion, il excite un
+<pb n="166"/>
+<br/>
+nouveau transport ; on se rembrasse, on se resserre,
+on se replonge dans la pluis douce ivresse, on
+s'inonde, on se noie dans une mer de voluptés.
+l'amante toute en feu fixe au plaisir son amant,
+avec quelle ardeur et quel courage! Rien en eux
+n'est exempt de ce doux exercice ; tout s'y rapproche,
+tout y contribue ; la bouche donne cent
+baisers les plus lascifs, l'oeil dévore, la main parcourt;
+rien n'est distrait de son bonheur ; tout
+s'y livre avidement ; le corps entier de l'un et de
+l'autre est dans le plus grand travail ; une douce
+mélancolie ajoute au plaisir je ne sais quoi de
+singulièrement piquant, qui l'augmente et met
+ces heureux amants dans la situation la plus
+rare et la plus intéressante. <pn>Amour</pn>, c'est de ces
+amants que tu devais dire:
+</p>
+<p>
+Vite, vite, qu'on les dessine,
+</p>
+<p>
+Pour mon cabinet de <pn>Paphos</pn>.
+</p>
+<p>
+Ils t'en auraient donné le temps ; je les vois
+mollement s'appesantir et se livrer au repos qu'une
+douce fatigue leur procure ; ils s'endorment;
+mais la nature, en prenant ses droits sur le corps,
+les exerce en même temps sur l'imagination ; elle
+veille presque toujours ; les songes sont, pour ainsi
+dire, à sa solde ; c'est par eux qu'elle fait sentir le
+plaisir aux amants, dans le sein même du sommeil.
+ces fidèles rapporteurs des idées de la veille,
+<pb n="167"/>
+<br/>
+ces parfaits comédiens qui nous jouent sans cesse
+nos passions dans nous-mêmes, oublieraient-ils
+leur rôle, quand le théâtre est dressé, que la toile
+est levée, et que de belles décorations les invitent
+à représenter? Les criminels dans les fers font
+des rêves cruels, le mondain n'est occupé que de
+bals et de spectacles, le trompeur est artificieux,
+comme le lâche est poltron en dormant, l'innocence
+n'a jamais rêvé rien de terrible. Voyez le
+tendre enfant dans son berceau, son visage est
+uni comme une glace, ses traits sont riants, sa
+petite paupière est tranquille, sa bouche semble
+attendre le baiser que sa nourri ce est toujours
+prête à lui donner. Pourquoi le voluptueux ne
+jouirait-il pas des mêmes bienfaits? Il ne s'est
+pas donné au sommeil ; c'est le sommeil qui l'a
+saisi dans les bras de la volupté. <pn>Morphée</pn>, après
+l'avoir enivré de ses pavots, lui fera sentir la
+situation charmante qu'il n'a quittée qu'à regret.
+belles, qui voyez vos amants s'endormir sur votre
+beau sein, si vous êtes curieuses d'essayer le transport
+d'un amant assoupi, restez éveillées, s'il vous
+est possible ; le même coeur, soyez-en sûres, la
+même âme vous communiquera les mêmes feux,
+feux d'autant plus ardents, qu'il ne sera pas distrait
+de vous par vous-même. Il soupirera dans
+le fort de sa tendresse, il parlera même et vous
+pourrez lui répondre ; mais que ce soit très doucement;
+<pb n="168"/>
+<br/>
+gardez-vous surtout de le seconder, vous
+l'éveilleriez par les moindres efforts ; laissez-le
+venir à bout des siens ; représentez-vous tous les
+plaisirs que goûte son âme, l'imagination peint
+mieux à l'oeil fermé qu'à l'oeil ouvert ; figurez-vous
+comme vous y êtes divinement gravée! Jouissez
+de toute sa volupté dans un calme profond et
+dans un parfait abandon de vous-même ; oubliez-vous,
+pour ne vous occuper que du bonheur de
+votre amant. Mais qu'il jouisse à la fin d'un doux
+repos ; livrez-vous-y vous-même, en vous dérobant
+adroitement de peur de l'éveiller ; ne vous
+embarrassez pas du soin de revoir la lumière, votre
+amant vous avertira du lever de l'aurore ; mais
+auparavant il se plaît à vous contempler dans les
+bras du sommeil ; son oeil avide se repaît des charmes
+que son coeur adore ; ils recevront tous ensemble
+et chacun en particulier l'hommage qui
+leur est dû. Que de beautés toujours nouvelles!
+il semble qu'il les voie pour la première fois. Ses
+regards curieux ne seraient jamais satisfaits, mais
+il faut bien que le plaisir de voir laisse enfin une
+place au plaisir de sentir. Avec quelle adresse ses
+doigts voltigent sur la superficie d'une peau veloutée!
+l'agneau ne bondit pas si légèrement sur
+l'herbe tendre de la prairie, l'hirondelle ne frise
+pas mieux la surface de l'eau ; ensuite il étend toute
+la main sur cette surface douce et polie, il la fait
+<pb n="169"/>
+<br/>
+glisser... On dirait une glace qu'il veut éprouver.
+son désir s'augmente par toutes ces épreuves,
+son feu s'irrite par de nouveaux larcins ; il va
+bientôt vous éveiller, mais peu à peu. Croyez-vous
+qu'il va prodiguer tous ces noms que sa tendresse
+aime à vous donner? Non, il est trop voluptueux;
+sa bouche lui sera d'un autre usage ; il donnera
+cent baisers tendres à l'objet de sa passion ; il ne
+les donnera pas brûlants, pour ne pas l'éveiller
+encore ; il approche, il hésite, il se fait violence;
+il se tient légèrement suspendu au-dessus d'une
+infinité de grâces qui agissent sur lui avec toute la
+force de leur aimant, il voudrait jouir d'une
+amante endormie... Déjà il s'y dispose avec toutes
+les précautions et l'industrie imaginables, mais
+en vain ; le coeur de <pn>Phylis</pn> est averti des approches
+de son bonheur, un doux sentiment l'annonce de
+veine en veine, ses pores sensibles à la plus légère
+titillation s'ouvriraient à l'haleine de <pn>Zéphire</pn>. Il
+était temps, bergère, les transports de votre
+amant touchaient à leur comble, il n'était plus
+maître de lui. Ouvrez donc les yeux, et acceptez
+avec plaisir les signes du réveil, "c'est moi, dit-il,
+"c'est ton cher <pn>Hylas</pn>, qui t'aime plus qu'il n'ait
+"fait de sa vie. "il se laisse ensuite tomber mollement
+dans vos bras, qu'un reste de sommeil
+vous fait étendre et ouvrir à la voix de l'amour;
+il les entrelacera dans les siens ; il s'y confondra
+<pb n="170"/>
+<br/>
+de nouveau. C'est ainsi qu'a peine rendue à vous-même,
+vous sentirez la volupté du demi-réveil.
+l'homme a été fait pour être heureux dans tous
+les états de la vie.
+</p>
+<p>
+C'est assez, profès voluptueux, l'amour ne
+perd rien à tous les serments qu'il fait faire ; jurez
+à votre maîtresse que vous lui serez fidèle, et
+levez-vous. C'est ici qu'il faut s'arracher au plaisir
+que les regrets accompagnent. N'attendez pas les
+pleurs ni les plaintes d'une belle qui touche au
+moment de vous perdre ; arrachez-vous encore
+une fois, et n'excitez point des désirs superflus.
+les plaisirs forcés sont-ils des plaisirs? Songez
+que vous reverrez un jour votre amante, ou que
+l'amour, dont l'empire ne finit qu'avec l'<pn>Univers</pn>,
+sensible à de nouveaux besoins, vous enflammera
+pour d'autres bergères, peut-être encore plus
+aimables.
+</p>
+<p>
+Amants, qui êtes sur le point de quitter vos
+belles, que vos adieux soient tendres, passionnés,
+pleins de ces nouveaux charmes que la tristesse y
+ajoute. Je veux que vous surpassiez un peu la
+<pn>Nature</pn>, mais ne l'excédez jamais : c'est à la tendresse
+à seconder le tempérament et à faire les
+derniers efforts. Qu'il serait heureux de trouver
+une ressource imprévue, au moment même qu'on
+s'embrasse pour la dernière fois, au moment que
+les pleurs mutuels de deux amants prenant divers
+<pb n="171"/>
+<br/>
+cours, semblent être les garants de leur douleur et
+de leur fidélité, en même temps que la marque et
+le terme de leurs plaisirs!
+</p>
+<p>
+O vous qui voulez faire croitre les myrtes de
+<pn>Vénus</pn> avec les pavots de <pn>Morphée</pn>, voluptueux
+de tous les temps, prenez tous mon guerrier pour
+modèle ; ne craignez ni les caprices du réveil, ni
+le défaut de sentiment. Si le rendez-vous est bien
+pris, si les coeurs sont d'intelligence, <pn>Flore</pn> en
+aura bientôt assez pour goûter à la fois et les douceurs
+du sommeil et celles de l'amour. Soyez
+seulement habile économe de vos plaisirs ; sachez
+l'art délicat de les filer, de les faire éclore dans
+le coeur d'une amante endormie ; et vous éprouverez
+que si ceux du soir sont plus vifs, ceux du
+matin sont plus doux.
+</p>
+<p>
+Comme on voit le <pn>Soleil</pn> sortir peu à peu de
+dessous les nuages épais qui nous dérobent ses
+rayons dorés, que la belle âme de <pn>Flore</pn> perce de
+même imperceptiblement ceux du sommeil : que
+son réveil exactement gradué, comme aux sons
+des plus doux instruments, la fasse passer en quelque
+sorte par toutes les nuances qui séparent ce
+qu'il y a de plus vif ; mais pour cela il faut que vos
+caresses le soient ; il faut n'arriver au comble des
+faveurs que par d'imperceptibles degrés ; il faut
+que mille jouissances préliminaires vous conduisent
+à la dernière jouissance : découvrez, 
+<pb n="172"/>
+<br/>
+contemplez, parcourez, contentez vos regards, comme
+l'amant d'<pn>Issé;</pn> par eux le coeur s'enflamme, les
+baisers s'allument... Mais n'en donnez point
+encore, revenez sur vos pas, qui vous presse?
+êtes-vous donc las de jouir? Levez de nouveau
+çà et là doucement le voile léger qui cache à vos
+yeux tant d'attraits... Je ne vous retiens plus, eh!
+le pourrais-je? Heureux <pn>Pygmalion</pn>, vous avez
+une statue vivante que vous brûlez d'animer!
+déjà le front, les yeux, l'incarnat des joues, ces
+lèvres vermeilles où se plaît l'amour, cette gorge
+d'albâtre où se perdent les désirs, ont reçu cent
+fois tour à tour vos timides baisers ; déjà la sensible
+<pn>Flore</pn> semble s'animer sous la douce haleine du
+nouveau <pn>Zéphire</pn>. Je vois sa bouche de rose faire
+un doux mouvement vers la vôtre ; ses beaux
+bras s'étendent avec une mollesse, dont le simple
+réveil ne peut se faire honneur ; ses mains commencent
+à s'égarer, comme les vôtres, partout où
+l'instinct d'amour les conduit. Plus réveillée qu'endormie,
+plus doucement émue que vivement
+agitée, il est temps de passer à des mouvements
+qui ne seront pas plus ingrats qu'elle. <pn>Flore</pn> y
+répond... Doucement, doucement, <pn>Tircis</pn>... Point
+encore... Elle se soulève à peine... Mais que vois-je!
+un de ses beaux yeux s'est ouvert ; votre air
+de volupté a passé dans son âme, ses baisers sont
+plus vifs, ses mains plus hardies... J'entends des
+<pb n="173"/>
+<br/>
+sons entrecoupés... Heureux <pn>Tircis</pn>, que tardez-vous?
+tout est prêt jusqu'au plaisir.
+</p>
+<p>
+Quels plaisirs, grands <pn>Dieux</pn>, que ceux de
+l'amour! Peut-on appeler plaisir tout ce qui n'est
+pas l'amour? Heureux ces vigoureux descendants
+d'<pn>Alcide</pn> qui portent dans leurs veines tous les
+feux de <pn>Cythère</pn> et de <pn>Lampsaque</pn>! Pour eux la
+jouissance est un vrai besoin renaissant sans cesse;
+mais plus heureux encore ceux dont l'imagination
+vive tient toujours les sens dans l'avant-goût du
+plaisir et comme à l'unisson de la volupté! Pour
+ces amants tous les jours se lèvent sereins et
+voluptueux ; examinez leurs yeux, et jugez, si vous
+pouvez, s'ils vont au plaisir ou s'ils en viennent. Si
+les préludes leur sont chers, que ces restes leur
+sont précieux! Est-ce la volupté même qui plane
+dans son atmosphère? Voyez-vous comme ils les
+ménagent, les chérissent, les recueillent en silence,
+les yeux fermés, comme au centre de leur imagination
+ravie, semblables à une tendre mère qui
+couvre de ses ailes et retient dans son sein ses
+petits qu'elle craint de perdre! Vos transports sont
+à peine finis, <pn>Climène</pn>, et vous avez déjà la force de
+parler! Ah, cruelle!
+</p>
+<p>
+Dans le souverain plaisir, dans cette divine extase
+où l'âme semble nous quitter pour passer dans
+l'objet adoré, où deux amants ne forment qu'un
+même esprit animé par l'amour, quelque vifs que
+<pb n="174"/>
+<br/>
+soient ces plaisirs qui nous enlèvent hors de nous-mêmes,
+ce ne sont jamais que des plaisirs ; c'est
+dans l'état doux qui leur succède, que l'âme en
+paix, moins emportée, peut goûter à longs traits
+tous les charmes de la volupté. Alors en effet elle
+est à elle-même, précisément autant qu'il faut pour
+jouir d'elle-même ; elle contemple sa situation
+avec autant de plaisir qu'<pn>Adonis</pn> sa figure, elle la
+voit dans le miroir de la volupté. Heureux moments,
+délire ou vertige amoureux, quelque nom
+qu'on vous donne, soyez plus durables et ne
+fuyez pas un coeur qui est tout à vous.
+</p>
+<p>
+Ne m'approchez pas, mortels fâcheux et turbulents,
+laissez-moi jouir... Je suis anéanti, immobile;
+j'ai à peine la force d'ouvrir des yeux
+fermés par l'<pn>Amour</pn>. Mais que cette langueur a de
+charmes! Est-ce un rêve ou une réalité? Il me
+semble que je m'abaisse, mais pour tomber,
+heureux sybarite, sur un monceau de feuilles de
+roses. La mollesse avec laquelle tous mes sens se
+replient sur tant de délices me les rappelle. Douce
+ivresse! Je jouis encore des faveurs de <pn>Thémire;</pn>
+je la vois, je la tiens entre mes bras. Il n'y a pas
+dans tout son beau corps une seule partie que je
+ne caresse, que je n'adore, que je ne couvre de
+mes baisers. Ah <pn>Dieux</pn>! Que d'attraits! Et que
+d'hommages réels mérite l'illusion même! Que ne
+puis-je toujours ainsi vous voir, adorable <pn>Thémire</pn>!
+<pb n="175"/>
+<br/>
+votre idée me tiendrait lieu de vous-même.
+pourquoi ne me suit-elle pas partout? L'image
+de la beauté vaut la beauté même, si elle n'est
+encore plus séduisante. Doux souvenir de mes
+plaisirs passés, ne me quittez jamais! Passés! Que
+dis-je! Non, <pn>Amour</pn>, ils ne le sont point. Je sens
+votre auguste presence... Doux plaisir!... Quelle
+volupté! Mes yeux s'obscurcissent... Ah <pn>Thémire</pn>!...
+ah <pn>Dieu</pn> puissant! Se peut-il que l'absence
+ait tant de charmes, et que nos faibles organes
+suffisent à cet excès de bonheur? Non, de
+si grands biens ne peuvent appartenir qu'à l'âme,
+et je la reconnais immortelle à ses plaisirs.
+</p>
+<p>
+Souffre, belle <pn>Thémire</pn>, que je me rappelle ici
+jusqu'aux moindres discours que tu soupirais la
+première fois... Quel combat enchanteur de la
+vertu, de l'estime et de l'amour! Comme à des
+mouvements ingrats il en succéda peu à peu de
+plus doux qui ne t'inquiétaient pas moins! Je
+vois tes paupières mourantes, prêtes à fermer des
+yeux adoucis, attendris par l'amour. Le rideau du
+plaisir fut bientôt tiré devant eux ; la force t'abandonnait
+avec la raison, tu ne voyais plus, tu ne
+savais ce que tu allas devenir, tu craignais, hélas!
+que cette simplicité ajoutait à tes charmes et à
+mon amour ; tu craignais de tomber en faiblesse
+et de mourir au moment même que tu allais verser
+bien d'autres larmes que les premières, que tu
+<pb n="176"/>
+<br/>
+allais sentir le bien-être et le plus grand des plaisirs.
+de quelle volupté encore ta tendresse fut
+suivie! Quels nouveaux et violents transports!
+dieux jaloux! Respectez l'égarement d'une mortelle
+charmante qui s'oublie dans les bras qu'elle
+adore, plus heureuse! Que dis-je! Plus <pn>Déesse</pn>
+en ces moinents que vous n'êtes <pn>Dieux</pn>! <pn>Amour</pn>,
+tu ne l'es toi-même que par nos plaisirs!
+</p>
+<p>
+Quel autre pinceau que celui de <pn>Pétrone</pn> pourrait
+peindre cette première nuit!... Ouels plaisirs
+enveloppa son ombre voluptueuse! Quelle extase!
+que de jouissances dans une! Brûlants
+d'amour, collés étroitement ensemble, agités,
+immobiles, nous nous communiquions des soupirs
+de feu : nos deux âmes, confondues par les baisers
+les plus ardents, ne se connaissaient plus ; éperdument
+livrées à toute l'ivresse de nos sens, elles
+n'étaient plus qu'un transport inexprimable, avec
+lequel, heureux mortels, nous nous sentions délicieusement
+mourir.
+</p>
+<p>
+Si les plaisirs du corps sont si vifs, quels sont
+ceux de l'âme! Je parle de cette tendresse pure,
+de ces goûts exquis qui semblent faire distiller la
+volupté goutte à goutte au fond de nos âmes,
+tellement enivrées, tellement remplies de la perfection
+de leur état qu'elles se suffisent à elles-mêmes
+et ne désirent rien. Ah! Que les coeurs qui
+sont penétrés de cette divine façon de sentir son 
+<pb n="177"/>
+<br/>
+heureux! Oui, j'en jure par l'amour même, j'ai
+vu des moments, <pn>Dieux</pn>! Quels moments! Où
+ma <pn>Thémire</pn>, s'élevant au-dessus des voluptés du
+corps, méprisait dans mes bras des faveurs que
+l'amour eût dédaignées lui-même.
+</p>
+<p>
+Toute tendresse, toute âme, <pn>Dieux</pn>! Quelle
+existence! Disait-elle. Non, je n'avais point encore
+connu l'amour... Rejetant ensuite tout autre sentiment
+plus vif, sans doute parce qu'ayant moins de
+douceur, sa vivacité même fait alors une sorte de
+violence, laisse-moi, laisse-moi goûter en paix et
+sans mélange un bien-être si grand, si parfait : le
+plasir corromprait mon bonheur.
+</p>
+<p>
+Je regardais ma <pn>Thémire</pn> avec l'attendrissement
+qu'elle m'avait inspiré. Tant d'amour avait fait
+couler quelques larmes de ses yeux, qui en étaient
+plus beaux. Dans son amoureuse mélancolie, son
+coeur n'avait pu contenir tout le torrent de tendresse
+dont il semblait inondé. Mais enfin les sens,
+se réveillant peu à peu, rentrèrent dans leurs
+droits ; et nos états devenus plus vifs, sans en être
+moins tendres : non, reprit <pn>Thémire</pn>, non, tu ne
+connais point encore tous mes transports ; je
+voudrais que toute mon âme pût passer dans la
+tienne.
+</p>
+<p>
+J'avais déjà fait deux sacrifices. <pn>Thémire</pn> enflammée,
+croyait toucher à chaque instant l'heureux
+terme de ses plaisirs ; mais soit que l'amour,
+<pb n="178"/>
+<br/>
+comme retenu par la tendresse, fût encore fixé ou
+concentré au fond de son coeur, soit qu'un tempérament
+trop irrité ne répondit pas à l'ardeur de
+ses désirs, je la vis, désespérée, témoigner, en
+frémissant, qu'elle ne pouvait supporter tant
+d'agitation ; son transport s'éleva jusqu'à la
+fureur. Quoi! Disait-elle, le sort de <pn>Tantale</pn> m'est
+réservé dans le sein des plaisirs!
+</p>
+<p>
+Le moyen de ne pas mettre tout en oeuvre pour
+calmer ce qu'on aime! Comment refuser des
+plaisirs qui s'augmentent partagés!
+</p>
+<p>
+Un troisième sacrifice apaisa peu à peu cette
+espèce de colère des sens malsatisfaits. Le plaisir
+ne fut plus renvoyé: des mouvements plus doux
+l'accueillirent et rappelèrent la molle volupté.
+mes yeux étaient pleins d'amour ; <pn>Thémire</pn> ouvrit
+les siens, et voyant l'intérêt vif que je prenais au
+succès de ses plaisirs, l'air élevé, animé, tout de
+feu, dont je l'encourageais, dont je présidais au
+combat, remplie elle-même alors du <pn>Dieu</pn> qui
+me possédait, d'une voix douce et d'un regard mourant,
+enfin, dit-elle, ah! Viens vite, cher amant,
+viens dans mes bras... Que j'expire dans les tiens!
+</p>
+<p>
+Quelle maîtresse, grands <pn>Dieux</pn>! Jugez si je
+l'adore, si je cesserai un moment de l'aimer, et
+si elle a besoin d'être jeune comme <pn>Hébé</pn> et belle
+comme la <pn>Vénus</pn> de <pn>Praxitèle</pn>, pour partager vos
+autels!
+<pb n="179"/>
+<br/>
+</p>
+<p>
+Mais, à son tour, <pn>Thémire</pn> est contente ; elle
+a pour amant non seulement un grand maître
+dans l'art des voluptés, mais un coeur, je dois le
+dire à ta gloire, tendre amour, un coeur bien différent
+de tous les autres ; toujours amoureux, toujours
+complaisant, qui ne vit, ne sent que pour
+elle, qui n'a point d'autre volonté, d'autre âme
+que la sienne, qui ne murmura jamais de ses plus
+injustes meilleurs. Pendant combien d'années me
+suis-je contenté, que dis-je! Me suis-je trouvé
+trop heureux des simples baisers, caresses et
+attouchements, comme dit naïvement <pn>Montaigne</pn>?
+si rien ne doit jamais dégoûter un amant de
+l'objet qu'il aime, si rien ne doit suspendre un service
+dont l'amour permet la célébration, rien aussi
+ne doit rendre infracteur de la foi qu'on a jurée
+à sa maîtresse. Belles, vous jugerez vos amants
+par leur générosité; c'est la balance des coeurs.
+veulent-ils forcer vos goûts, violer votre prudence,
+et, sans égard pour de trop justes craintes, vous
+exposer aux suites fâcheuses d'une passion sans
+retenue? Soyez sûres qu'ils vous trompent, qu'ils
+ne sont qu'impétueux, et que vous n'êtes pas vousmêmes
+ce qu'ils aiment le plus en vous.
+</p>
+<p>
+Voyons comment tous les sens concourent à
+nos plaisirs. On sait déjà que <pn>Vénus</pn> peut être physique, 
+sans perdre de ses grâces. Le plus beau
+spectacle du monde est une belle femme ; il se
+<pb n="180"/>
+<br/>
+peint dans ses yeux ; c'est par eux que passe dans
+l'âme l'image de la beauté, image agréable dont
+la trace nous suit partout, source féconde en
+amoureux désirs. Sans cet admirable organe, miroir
+transparent où se vient peindre en petit tout
+l'<pn>Univers</pn>, on serait privé de cette <pn>Sirène</pn> enchanteresse,
+aux pièges de laquelle il est si doux de se
+laisser prendre. C'est elle qui embellit tout ce
+qu'elle touche, et se représente tout ce qu'elle
+veut. Ses brillants tableaux charment nos ennuis
+dans l'absence, qui disparait pour faire place à
+l'objet aimé dont l'imagination est le triomphe;
+ses yeux de <pn>Lynx</pn> s'étendent sans bornes sur
+l'avenir, comme sur le passé; par eux, par la
+manière dont ils sont taillés, les objets les plus
+éloignés se rapprochent, se grossissent et se montrent
+enfin sous les plus beaux traits ; par eux le
+voluptueux jouit de ses idées ; il les appelle, les
+éveille, écarte les unes, fixe et caresse les autres au
+gré de ses désirs. Non que je sache comment
+l'imagination broie les couleurs, d'où naissent tant
+d'illusions charmantes, mais l'image du plaisir
+qui en résulte est le plaisir même.
+</p>
+<p>
+L'esprit, le charme de la conversation, la douceur
+de la voix, la musique, le chant, sans l'ouïe
+que d'attraits perdus! Sans l'odorat, aurais-je le
+plaisir de sentir le parfum des fleurs et de ma
+<pn>Thémire</pn>? Sans le toucher, le satin de sa belle
+<pb n="181"/>
+<br/>
+peau perdrait sa douceur! Quel plaisir aurait ma
+bouche, collée sur sa bouche avec mon coeur?
+que deviendraient ces baisers amoureusement
+donnés, reçus, rendus, recherchés? Toutes ces
+voluptés badines qui changent les heures en moments,
+tous ces jeux d'enfants qui plaisent à
+l'amour ne séduiraient plus nos tendres coeurs;
+cette partie divine serait en vain légèrement
+titillée, soit par les mains des <pn>Grâces</pn>, soit par le
+plus agile organe des mortels ; ce bouton de rose
+n'aurait plus la même sympathie ; cet harmonieux
+accord de deux plaisirs industrieusement réunis,
+ce doux concert de la volupté serait détruit. En
+vain, <pn>Thémire</pn>, ces charmes dont je suis idolâtre
+tomberaient en grappe délicieuse dans la bouche
+voluptueuse qui les attend. Plus de ressources imprévues,
+plus de miracles d'amour désespéré; ce
+qu'il y a de plus sensible dans les amours des
+tendres colombes serait perdu avec la plus puissante
+des voluptés.
+</p>
+<p>
+Assez d'autres ont chanté les glouglous de la
+bouteille ; je veux célébrer ceux de l'amour, incomparablement
+plus doux. Je t'évoque ici du
+sein des morts, charmant <pn>Abbé;</pn> quitte ces champs
+toujours verts et l'éternel printemps de ces jardins
+fleurs, riant séjour des ames généreuses qui ont
+joint le plaisir délicat de faire des heureux au
+talent de l'être... Je reconnais ton ombre 
+<pb n="182"/>
+<br/>
+immortelle, aux fleurs que la volupté sème sur tes pas.
+explique-nous quelle est cette espèce de philtre
+naturel... Dis, <pn>Chaulieu</pn>, par quel heureux échange
+nos âmes, en quelque sorte tamisées, passent de
+l'un dans l'autre, comme nos corps. Dis comment
+ces âmes, après avoir mollement erré sur des
+lèvres chéries, aiment à couler de bouche en
+bouche et de veine en veine, jusqu'au fond des
+coeurs en extase. Y cherchent-elles le bonheur
+dans les sentiments les plus vifs? Quelle est cette
+divine, mais trop courte métempsycose de nos
+âmes et de nos plaisirs!
+</p>
+<p>
+Charmes magiques, aimant de la volupté,
+mystères cachés de <pn>Cypris</pn>, soyez toujours inconnus
+aux amants vulgaires ; mais pénétrant
+tous mes sens de votre auguste présence, faites
+que je puisse dignement peindre celui que vous
+excitez, et pour lequel tous les autres semblent
+avoir été faits. On le reconnaît à son délicieux
+et puissant empire ; il interdit l'usage de la parole,
+de la vue, de l'ouïe, de la pensée, qui fait place au
+sentiment le plus vif ; il anéantit l'âme avec tous
+ses sens ; il suspend toutes les fonctions de notre
+économie ; il tient, pour ainsi dire, les rênes de
+l'homme entier, au gré de ces joies souveraines et
+respectables, de ce fécond silence de la <pn>Nature</pn>,
+qu'aucun mortel ne devrait troubler, sans être
+écrasé par la foudre : telle est en un mot la 
+<pb n="183"/>
+<br/>
+puissance immortelle, que la raison, cette vaine et
+fière <pn>Déesse</pn>, rangée sous son despotisme, n'est,
+comme les autres sens, que l'heureuse esclave de
+ses plaisirs.
+</p>
+<p>
+A ces traits qui peut méconnaître l'amour?
+qui peut ne pas rendre hommage à cette importante
+action de la <pn>Nature</pn>, par laquelle tout croit,
+multiplie et se renouvelle sans cesse, et dont toutes
+les autres ne semblent être que des distractions:
+distractions nécessaires à la vérité, autorisées et
+même conseillées par l'<pn>Amour</pn>, à condition qu'on
+n'en ait point en celébrant ses mystères. O <pn>Vénus</pn>!
+combien peu sentent le prix de tes faveurs! Combien
+peu se respectent eux-mêmes dans les bras
+de la volupté! Oui, ceux qui sont alors capables
+de la moindre distraction, ceux à qui tes plaisirs
+ne tiennent pas lieu de tous les autres, pour qui
+tu n'es pas tout l'<pn>Univers</pn>, indignes du rang de tes
+élus, le sont de tes bontés!
+</p>
+<p>
+La volupté a son échelle, comme la <pn>Nature;</pn>
+soit qu'elle la monte ou la descende ; elle n'en
+saute pas un degré; mais parvenue au sommet,
+elle se change en une vraie et longue extase, espèce
+de catalepsie d'amour qui fuit les débauchés et
+n'enchaîne que les voluptueux.
+</p>
+<p>
+Quelle est cette honnête fille que l'amour conduit
+tremblante au lit de son amant? L'<pn>Hymen</pn>
+seul, que sa générosité refuse, pourrait la rassurer.
+<pb n="184"/>
+<br/>
+elle se pâme dans les bras de <pn>Sylvandre</pn>, qui meurt
+d'amour dans les siens ; mais réservée dans ses
+plaisirs, elle modère si bien ses transports qu'il
+n'est que trop sûr qu'elle ne confondra que ses
+soupirs. Elle se défie de l'adresse même du <pn>Dieu</pn>
+qu'elle chérit ; tout <pn>Dieu</pn> qu'il est, elle ne l'en croit
+que plus trompeur. Sa virginité lui est moins chère
+que son amour ; sans doute sa curiosité serait
+voluptueusement satisfaite avec celle de son
+amant ; en faisant tout pour lui, elle croit n'avoir
+rien fait, parce que ce n'est point avec lui ; elle le
+refuse moins qu'elle-même ; elle n'entend plus
+que la voix d'un fantôme qui lui dit de se respecter.
+quelque excessive que soit la tendresse
+d'un coeur qui n'a jamais aimé, elle n'est point à
+l'épreuve de l'infamie. <pn>Dieu</pn> puissant! Se peut-il
+qu'une faible mortelle, que tu as si facilement
+séduite par tes plaisirs, se souvienne encore en
+aimant de tout ce qu'on devrait oublier quand on
+aime?
+</p>
+<p>
+A quel genre de volupté plus simple, plus
+épurée, suis-je parvenu! Ici l'<pn>Églogue</pn>, la flûte à la
+main, décrit avec une tendre simplicité les amours
+des simples bergers.<pn>Tircis</pn> aime à voir ses moutons
+paître avec ceux de <pn>Sylvandre;</pn> ils sont
+l'image de la réunion de leurs coeurs. C'est pour
+lui qu'<pn>Amour</pn> ls fit si belle ; il mourrait de douleur,
+si elle ne lui était pas toujours fidèle. Là, c'est
+<pb n="185"/>
+<br/>
+l'<pn>Élégie</pn> en pleurs, qui fait retentir les échos des
+plaintes et des cris d'un amant malheureux. Il a
+tout perdu en perdant ce qu'il aime ; il ne voit
+plus qu'à regret la lumière du jour ; il appelle la
+mort à grands cris, en demandant raison à la
+<pn>Nature</pn> entière de la perte qu'il a faite.
+</p>
+<p>
+Il faut l'entendre exprimer lui-même la vivacité
+de ses regrets, entrecoupés de soupirs. La pudeur
+augmentait les attraits de son amante ; elle la
+conservait dans le sein même des plus grands
+plaisirs, qui en étaient plus piquants. Avant lui,
+elle ne connaissait point l'amour. Il se rappelle
+avec transport les premiers progrès de la passion
+qu'il lui inspira, et tout le plaisir mêlé d'une tendre
+inquiétude qu'elle eut à sentir une émotion nouvelle.
+pendant combien d'années il l'aima, sans
+oser lui en faire l'aveu! Comme il prit sur lui de
+lui déclarer enfin sa passion en tremblant! Hélas!
+elle n'en était que trop convaincue ; tous ces beaux
+noms de sympathie ou d'amitié la déguisaient mal;
+elle sentait que l'amour se masquait pour la
+tromper, et, peut-être sans le savoir, aide-t-elle
+ce <pn>Dieu</pn> même à donner à ce parfait amant autant
+de confiance que son dangereux respect lui en avait
+inspiré à elle-même. Mais se rendre digne des
+faveurs de <pn>Sylvandre</pn> était pour <pn>Damon</pn> d'un plus
+grand prix que de les obtenir. Aimer, être aimé,
+c'était pour son coeur délicat la première 
+<pb n="186"/>
+<br/>
+jouissance, jouissance sans laquelle toutes les autres
+n'étaient rien. La vérité des sentiments était l'âme
+de leur tendresse, et la tendresse l'âme de leurs
+plaisirs ; ils ne connaissaient d'autres excès que
+celui de plaire et d'aimer : c'est la volupté des
+coeurs.
+</p>
+<p>
+Pleure! (eh! Qu'importe que l'on pleure pourvu
+qu'on soit heureux), pleure, infortuné berger!
+un coeur amoureux trouve des charmes à s'attendrir;
+il chérit sa tristesse, les joies les plus bruyantes
+n'ont pas les douceurs d'une tendre mélancolie.
+pourquoi ne pas s'y livrer, puisque c'est un
+plaisir, et le seul plaisir qu'un coeur triste puisse
+goûter dans la solitude qu'il recherche? Un jour
+viendra que trop consolé tu regretteras de ne
+plus sentir ce que tu as perdu.trop heureux de
+conserver ton chagrin et tes regrets, si tu les
+perds, tu existeras comme si tu n'avais jamais
+aimé.
+</p>
+<p>
+Pourquoi vous mettre au rang des prudes, vous
+qui ne l'êtes pas, respectable <pn>Zaïde</pn>? Pourquoi
+accordez-vous à mon idée plus qu'à moi-même?
+je suis tel que vous supposez ; vous n'avez, j'en
+jure par vos beaux yeux, vous n'avez pas plus a
+craindre avec l'original qu'avec la copie. C'est
+perdre de gaieté de coeur un bien réel, pour embrasser
+la nue d'<pn>Ixion</pn>. Rassurez-vous ; ne craignez
+ni indiscrétion ni inconstance, je n'en veux
+<pb n="187"/>
+<br/>
+pour garants que vos charmes. Nos coeurs sont
+faits l'un pour l'autre ; que la plus douce sympathie
+les enchaîne pour jamais! C'est bien nous,
+faibles mortels, à croire pouvoir être heureux
+sans le secours de <pn>Vénus</pn>! Quelque industrieux
+que soient les moyens qu'on a imaginés, l'<pn>Amour</pn>
+en gémit ; craignons son courroux ; c'est le plus
+redoutable des <pn>Dieux</pn>. Venez, <pn>Zaïde</pn>, venez, ne
+sentez-vous donc point le vide de votre condition?
+et comment le remplir sans amour? Voyez les lys
+dont il a parsemé votre beau teint! C'est pour
+donner à votre amant le plaisir de les changer en
+roses. L'empire de <pn>Flore</pn> est soumis à celui de
+l'<pn>Amour</pn>. Un jour viendra, n'en doutez pas, que
+vous vous repentirez moins d'avoir aimé, fût-ce
+un volage, que de n'avoir point aimé.tous ces
+beaux jours perdus dans une froide indifférence,
+vous les regretterez, <pn>Zaïde</pn>, mais en vain ; ils s'envolent
+et ne reviennent plus.
+d'une ardeur extrême
+le temps nous poursuit.
+détruit par lui-même,
+par lui reproduit:
+plus léger qu'<pn>Eole</pn>
+il naît et s'envole,
+renaît et s'enfuit.
+</p>
+<p>
+Voyez ce jeune <pn>Myrte</pn>! Sa vie est courte, il
+sera bientôt flétri. Mais il profite du peu de jours
+qui lui sont accordés ; il ne se refuse ni aux caresses
+<pb n="188"/>
+<br/>
+de <pn>Flore</pn>, ni aux douces haleines de <pn>Zéphire</pn>.
+imitons-le en tout, <pn>Zaïde</pn>, et que sa vie, l'image de
+la nôtre par la durée, le soit encore par les plaisirs.
+</p>
+<p>
+Jeune <pn>Cloé</pn>, vous me fuyez... En vain je vous
+appelle, en vain je vous poursuis... Déjà tous vos
+charmes se dérobent à ma vue... Rassurons-nous...
+les coquettes ne font que semblant de se cacher.
+</p>
+<p>
+A ces jeux que <pn>Virgile</pn> a si bien peints, qui ne
+voit les ruses et toute la coquetterie d'<pn>Amour</pn>?
+vous croyez le prendre sur des lèvres vermeilles!
+l'enfant qu'il est s'y croit trop à découvert! Il
+se sauve, il s'enfuit. Jeune <pn>Aurore</pn>, il est déjà dans
+les boucles de vos beaux cheveux ; comme il s'y
+joue avec un souffle badin d'une épaule à l'autre!
+que j'aime à le voir, las de voltiger comme un
+oiseau du lys à la rose et de l'ivoire au corail, se
+reposer enfin sur votre belle gorge! On l'y poursuit,
+il n'y est déjà plus. Par où s'est-il glissé? Où
+se cache-t-il? Partout où babite la beauté. Il s'est
+fait une dernière retraite, c'est là qu'il aime à
+s'arrêter, "comme une tendre fauvette sur ses
+petits". Poursuivez-le encore ; à l'air dont il
+demande grâce, qu'on voit bien qu'il n'en veut
+point avoir! Il ne semble se fixer au siège de la
+volupté, il n'est bien aise que son empire ait des
+bornes que pour avoir le plaisir de s'y laisser
+prendre et ne pas manquer d'excuse.
+</p>
+<p>
+Transportons-nous à l'<pn>Opéra;</pn> la <pn>Volupté</pn> n'a
+<pb n="189"/>
+<br/>
+point de temple plus magnifique, ni plus fréquenté.
+quelles sont ces deux danseuses autour
+de l'arche de <pn>Jephté</pn>? Dans l'une, quelle agilité,
+quelle force, quelle précision! Le plaisir la suit
+avec les jeux et les ris, son escorte ordinaire;
+l'autre, moins étonnante, séduit plus ; ses pas sont
+mesurés par les grâces et composés par les
+amours. Quelle moelle, quelle douceur! L'une est
+brillante, légère, nouvelle ; l'autre est ravissante,
+inimitable. Si <pn>Camargo</pn> est au rang des <pn>Nymphes</pn>,
+vertueuse <pn>Salé</pn>, vous ornerez le <pn>Choeur</pn> des <pn>Grâces</pn>.
+divine enchanteresse, quelle âme de bronze n'est
+pas pénétrée de la mollesse de tes mouvements?
+étends, déploie seulement tes beaux bras, et
+tout <pn>Paris</pn> est plus enchanté qu'<pn>Amadis</pn> même!
+</p>
+<p>
+Nouvelle <pn>Terpsychore</pn>, je n'ai point à regretter
+ce genre de plaisirs. Sage <pn>C</pn><pn></pn><pn></pn>, vous avez plus
+d'art, sans manquer de grâces. <pn>D</pn><pn></pn><pn></pn><pn></pn>, charmante
+<pn>D</pn><pn></pn><pn></pn><pn></pn>, vous avez plus de grâces, sans manquer
+d'art. Brillantes rivales, vous faites l'une et
+l'autre l'honneur des ballets d'<pn>Apollon</pn>.
+</p>
+<p>
+Qu'entends-je! Le <pn>Dieu</pn> du chant serait-il
+descendu sur la <pn>Terre</pn>! Quels sons! Quel désespoir!
+quels cris! Nouvel <pn>Atis</pn>, aimable <pn>Jéliote</pn>,
+sers-toi de tout l'empire que tu as sur les coeurs
+sensibles : non, jamais la puissance d'<pn>Orphée</pn>
+n'égala la tienne! Et toi, frêle et surprenante
+machine, qui n'as point été faite pour penser, le
+<pb n="190"/>
+<br/>
+<pn>Maure</pn> remercie l'amour de t'avoir organisée
+pour chanter ; tu ravis nos âmes par les sons de
+ta voix!
+</p>
+<p>
+De combien de façons n'intéresses-tu pas nos
+coeurs, puissante <pn>Vénus</pn>, lors même que tu persécutes
+une malheureuse, dont le crime est celui
+des <pn>Dieux</pn>! <pn>Mérope</pn>, mère incomparable, ta
+tendresse est éperdue, c'est presque de l'amour.
+je ne t'oublie point, adorable <pn>Zaïre;</pn> j'ai pour toi
+les yeux d'<pn>Orosmane;</pn> oui, tu étais digne d'un
+plus heureux destin. Pourquoi faut-il qu'une
+flamme aussi pure soit éteinte par des préjugés
+que tu n'avais pas? L'amour devait-il souffrir
+qu'on éclairât la reine de son empire sur d'autres
+intérêts que ceux de la volupté?
+</p>
+<p>
+Le plaisir de la table succède à celui des spectacles.
+le voluptueux fait choisir ses convives ; il
+veut qu'ils soient, comme lui, sensuels, délicats,
+aimables, et plutôt gais, plaisants, que spirituels.
+il écarte tout fâcheux conteur, tout ennuyeux
+érudit. Surtout point de beaux esprits ; ils aiment
+plus à briller qu'à rire. Des bons mots, des saillies,
+quelques étincelles (l'esprit a sa mousse
+comme le <pn>Champagne</pn>), mais plus encore de joie;
+et que le goût du plaisir pétille dans tous les
+yeux, comme le vin dans la fougère. Le gourmand
+gonflé, hors d'haleine dès le premier service, semblable
+au cygne de <pn>La</pn> <pn>Fontaine</pn>, est bientôt sans
+<pb n="191"/>
+<br/>
+désirs. Le voluptueux goûte de tous les mets, mais
+il en prend peu, il se ménage, il veut profiter de
+tout. <pn>Comus</pn> est son cuisinier, et la fine <pn>Vénus</pn> a
+bien ses raisons pour fournir ses ingrédients. Les
+autres sablent le <pn>Champagne;</pn> il le boit, le boit à
+longs traits, comme toutes les voluptés. Vous
+sentez qu'il préfère à tous ces charmants tête-à-tête,
+où, les coudes sur la table, les jambes entrelacées
+dans celles de sa maîtresse, les yeux sont le
+plus faible interprète du langage du coeur. Versez,
+<pn>Iris</pn>, versez à plein verre. "qu'il endorme, ou qu'il
+"excite, la traite est petite de la table au lit. "
+cette nuit, distillé par l'<pn>Amour</pn>,il vous sera rendu...
+mais auparavant, accordez à <pn>Bacchus</pn> ce qui est
+dû à <pn>Bacchus;</pn> laissez-le reposer dans les bras
+de <pn>Morphée;</pn> il ne pourrait fournir qu'une faible
+carrière. <pn>Déesse</pn> de <pn>Cythère</pn>, je sais quels hommages
+sont dus à vos charmes ; mais attendez à
+voir paraître votre étoile! Vous entendez mal vos
+intérêts... <pn>Iris</pn>, n'éveillez pas si tôt votre amant.
+</p>
+<p>
+Suivons partout le voluptueux, dans ses discours,
+dans ses promenades, dans ses lectures,
+dans ses pensées, etc. Il distingue la volupté du
+plaisir, comme l'odeur de la fleur qui l'exhale, ou
+le son de l'instrument qui le produit. Il définit la
+débauche, un excès de plaisir mal goûté, et la
+volupté, l'esprit et comme la quintessence du
+plaisir, l'art d'en user sagement, de le ménager par
+<pb n="192"/>
+<br/>
+raison, et de le goûter par sentimcnt. Est-ce sa
+faute, après cela, si on a plus de désirs que de
+besoins? Il est vrai que le plaisir ressemble à
+l'esprit aromatique des plantes ; on n'en prend
+qu'autant qu'on en inspire ; c'est pourquoi vous
+voyez le voluptueux prêter à chaque instant une
+oreille attentive à la voix secrète de ses sens dilatés
+et ouverts ; lui, comme pour mieux entendre le
+plaisir, eux, pour mieux le recevoir. Mais s'ils n'y
+sont pas propres, il ne les excite point : il perdrait
+le point de vue de son art, la sagesse des plaisirs.
+</p>
+<p>
+La <pn>Nature</pn> prend-elle ses habits de printemps?
+prenons, dit-il, les nôtres ; faisons passer dans nos
+coeurs l'émail des prés et la verte gaieté des
+champs. Parons notre imagination des fleurs qui
+rient à nos yeux. Belles, parez-en votre sein, c'est
+pour vous qu'elles viennent d'éclore ; mais prenez
+encore plus d'amours que de fleurs. Enivrez-vous
+de tendresse et de volupté, comme les prés s'enivrent
+de leurs ruisseaux. Chaque être vous adresse
+la parole ; seriez-vous sourdes à la voix, à l'exemple
+de la <pn>Nature</pn> entière? Voyez ces oiseaux! À
+peine éclos, leurs ailes les portent à l'amour!
+voyez comme ce <pn>Dieu</pn> badin folâtre sous la forme
+de <pn>Zéphire</pn> autour de ce vert feuillage! Les fleurs
+mêmes se marient ; les vents sont leurs messagers
+<pb n="193"/>
+<br/>
+</p>
+<p>
+Vous, qui avez tant de sentiment, <pn>Corine</pn>...
+venez. Si l'instinct jouit plutôt que l'esprit, l'esprit
+goûte mieux que l'instinct.
+</p>
+<p>
+Qu'un simple bouquet a de charmes pour un
+amant! L'amour est-il niché dans ces fleurs? 
+<pn>Daphnis</pn> croit le respirer lui-même ; on dirait qu'il
+veut l'attirer dans son coeur par une voie nouvelle.
+mais quel feu secret! Quelle douce émotion! Et
+quelle en est la cause? C'est qu'il était contre le coeur 
+de sa chère <pn>Thérèse</pn>. En reçoit-elle un à son tour des
+mains de son berger? Il la suit des yeux. Que ces
+fleurs sont heureuses d'être si bien placées! Elles
+ornent le trône des <pn>Amours</pn>! Il envie leur sort ; il
+voudrait, comme elles, expirer sur ce qu'il aime.
+</p>
+<p>
+La douleur est un siècle, et le plaisir un moment;
+ménageons-nous pour en jouir, dit le
+convalescent voluptueux. Reprend-il un nouvel
+être? Il est enchanté du spectacle de l'<pn>Univers</pn>.
+heureuse abeille, il n'y a pas une fleur dont il ne
+tire quelque suc ; ses narines s'ouvrent à leur
+agréable parfum. Une table bien servie ranime
+son appétit, un vin délicieux flatte son palais, un
+joli minois le met tout en feu : que dis-je!
+</p>
+<p>
+La première <pn>Phylis</pn> des hameaux d'alentour,
+</p>
+<p>
+Est la <pn>Sultane</pn> favorite,
+</p>
+<p>
+Et le miracle de l'<pn>Amour</pn>.
+   <pn>Lesbie</pn>, vous êtes charmante, et je vous aime
+plus que <pn>Catulle</pn> ne vous a jamais aimée... Mais
+<pb n="194"/>
+<br/>
+vous êtes trop libidineuse : on n'a pas le temps de
+désirer avec vous. Déjà... Pourquoi si vite?
+j'aime qu'on me résiste et non qu'on me prévienne,
+mais avec art, ni trop, ni trop peu ; j'aime
+une certaine violence, mais douce, qui excite le
+plaisir sans le déconcerter. La volupté a son soleil
+et son ombre : croyez-moi, <pn>Lesbie</pn>, restons encore
+quelque temps à l'ombre ; ombre charmante,
+ombre chérie des femmes voluptueuses, nous ne
+nous quitterons que trop tôt! Ne sentez-vous
+donc pas le prix d'une douce résistance et d'un
+bien plus doux amusement? Il n'y a pas jusqu'à
+la faiblesse même dont on ne puisse tirer parti.
+que <pn>Polyénos</pn>, <pn>Ascylthe</pn>, et tous les <pn>Mazulims</pn> du
+monde ne se plaignent plus de leur désastre, l'attente
+du plaisir en est un. <pn>Circé</pn> s'en loue, elle
+remercie son amant de ce qui blesse au moins la
+vanité des autres femmes. <pn>Circé</pn> rend grâces à une
+trop heureuse impuissance, c'est qu'elle n'est que
+voluptueuse : son plaisir en a duré plus longtemps,
+ses désirs n'ont point fini. Les langueurs du corps
+empêchent donc quelquefois les langueurs de
+l'âme! Quoi! Elles soutiennent la volupté! Qui
+l'eût cru, sans l'expérience de la <pn>Parodie</pn> du <pn>Pavot</pn> 
+de <pn>Virgile</pn>? Parodie si brusque quelquefois, au
+milieu même des plus grands airs, qu'on a bien
+de la peine à n'en pas rire, au hasard d'augmenter
+le dépit de <pn>Vénus</pn>.
+<pb n="195"/>
+<br/>
+</p>
+<p>
+Si le voluptueux se promène, le plus beau
+lieu, le chant des oiseaux, la fraîcheur des ruisseaux
+et des zéphires, un air embaumé de l'esprit
+des fleurs, la plus belle vue, la plus superbe allée,
+celle où <pn>Diane</pn> se promène elle-même avec toute
+sa cour : voilà ce qu'il choisit et ce qu'il quitte
+bien plus volontiers, soit pour lire au frais <pn>Crébillon</pn>
+ou <pn>Chaulieu</pn>, soit pour s'égarer dans un
+bois et fouler avec quelque <pn>Driade</pn> le gazon
+touffu d'un bosquet inaccessible aux profanes.
+lambris dorés que les flûtes et les voix font
+retentir, charmez-vous ainsi le magnifique ennui
+des rois?
+</p>
+<p>
+S'il attend sa maîtresse, c'est dans le silence et
+le mystère ; tous ses sens tendus semblent écouter,
+il ose à peine respirer, un faux bruit l'a déjà
+trompé plus d'une fois : puissé-je l'être toujours
+ainsi. Tout dort, et <pn>Julie</pn> ne vient point? L'impatience
+de l'un surpasse la prudence de l'autre. Il
+ne se connaît plus, il brûle, il frémit du plaisir
+qu'il n'a pas encore... Que sera-ce et quels transports,
+quand un objet si tendrement chéri, si vivement
+imaginé, éclairé par le seul flambeau de
+l'amour... Heureux <pn>Sylvandre</pn>, voilà <pn>Julie</pn>!
+   <pn>Issé</pn> est-elle dans les bras du sommeil? Celui
+de l'amour même n'est pas plus respecté; il ordonne
+aux ruisseaux de murmurer plus bas ; il
+voudrait imposer silence à la <pn>Nature</pn> entière. <pn>Issé</pn>
+<pb n="196"/>
+<br/>
+ne s'éveillera que trop tôt, elle est dans la plus
+galante attitude. Voyez celle de l'amant! Voyez
+ses yeux! Que de charmes ils parcourent! Favorise
+le <pn>Dieu</pn> du sommeil, et qu'ils aient le temps
+de se payer des larmes qu'ils ont versées pour eux! 
+</p>
+<p>
+Beaux jours d'<pn>Hébé</pn>! Quoi! Vous ne reviendrez
+plus! Je serai désormais impitoyablement livré
+au vide d'un coeur sans tendresse et sans désir:
+vide affreux que tous les goûts, tous les arts, toutes
+les dissipations de la vie ne peuvent remplir! Que
+jie sente du moins quelquefois les flatteuses approches
+du plus respectable des <pn>Dieux</pn>, signe consolateur
+d'une amante éperdue, et tel qu'au <pn>Nautonier</pn>
+alarmé se montre la brillante étoile du
+matin! Plaisir, ingrat plaisir, c'est donc ainsi que
+tu traites qui t'a tout sacrifié! Si j'ai perdu mes
+jours dans la volupté, ah! Rendez-les-moi, grands 
+<pn>Dieux</pn>, pour les reperdre encore!
+</p>
+<p>
+Je suis jaloux de ton bonheur, trop heureux
+pêcher. La <pn>Nature</pn> t'a traité en mère, et l'homme
+en marâtre. Un doux zéphire a soufflé dans les
+airs, une nouvelle chaleur te rappelle à la vie,
+tes boutons paraissent, se développent bientôt
+ornés de fleurs ; tu seras enfin chéri pour tes
+excellents fruits. Combien de printemps t'ont
+rajeuni! Combien d'autres te rajeuniront encore,
+tandis que le premier de l'homme, hélas! Est
+aussi son dernier. Quoi! Cet arbre fleuri qui fait
+<pb n="197"/>
+<br/>
+l'honneur du champ, qui a plus de sentiment que
+tous les êtres ensemble, ne serait qu'une plante
+éphémère, éclose le matin, le soir flétrie, moins
+durable que ces fleurs, qui du moins, sûres de parer
+nos campagnes durant l'été, embelliront peut-être
+l'automne même! Spectacle enchanteur
+dont l'éternité même ne pourrait me rassasier;
+un destin, cruel sans doute, nous arrache au plaisir
+de vous voir et de vous admirer sans cesse, mais il
+est inévitable. Ne perdons point le temps en
+regrets frivoles ; et tandis que la main du printemps
+nous caresse encore, ne songeons point
+qu'elle va se retirer ; jouissons du peu de moments
+qui nous restent ; buvons, chantons, aimons
+qui nous aime ; que les jeux et les ris suivent nos
+pas ; que toutes les voluptés viennent tour à tour,
+tantôt amuser, tantot enchanter nos âmes ; et
+quelque courte que soit la vie, nous aurons vécu.
+</p>
+<p>
+Le voluptueux aime la vie, parce qu'il a le corps
+sain, l'esprit libre et sans préjugés. Amant de la
+<pn>Nature</pn>, il en adore les beautés, parce qu'il en
+connaît le prix ; inaccessible au dégoût, il ne comprend
+pas comment ce poison mortel vient infecter
+nos coeurs. Au-dessus de la <pn>Fortune</pn> et de ses
+caprices, il est sa fortune à lui-même ; au-dessus
+de l'ambition, il n'a que celle d'être heureux ; au-dessus
+des tonnerres, <pn>Philosophe</pn> épicurien, il ne
+craint pas plus la foudre que la mort. Les arbres
+<pb n="198"/>
+<br/>
+se dépouillent de leur verdure, il conserve son
+amour. Les fleuves se changent en marbre, un
+froid cruel gèle jusqu'aux entrailles de la <pn>Terre</pn>,
+il brûle des feux de l'été. Couché avec sa chère
+délie, la rigueur de l'hiver, le vent, la pluie, la
+grêle, les éléments déchaînés ajoutent au bonheur
+de <pn>Tibule</pn>. Si la mer est calme et tranquille, le
+voluptueux ne voit dans cette belle nappe d'huile
+qu'une parfaite image de la paix. Si les flots bouleversés
+par <pn>Éole</pn> en furie menacent quelque vaisseau
+du naufrage, ce tableau mouvant de la guerre,
+tout effrayant qu'il est, il le voit avec le plaisir
+d'un homme éloigné du danger. Ce n'est pas là
+un de ceux que court volontiers la volupté.
+</p>
+<p>
+Tout est plaisir pour un coeur voluptueux ; tout
+est roses, oeillets, violettes dans le champ de la
+<pn>Nature</pn>. Sensible à tout, chaque beauté l'extasie;
+chaque être inanimé lui parle, le réveille ; chaque
+être animé le remue ; chaque partie de la <pn>Création</pn>
+le remplit de volupté. Voit-il paraître la riante
+livrée du printemps? Il remercie la <pn>Nature</pn> d'avoir
+prodigue une couleur si douce et si amie des yeux.
+admirateur des plus frappants phénomènes, le
+lever de l'<pn>Aurore</pn> et du <pn>Soleil;</pn> cette brillante couleur
+de pourpre, qui, se jouant dans le brun des
+nuées, forme à son couchant la plus superbe
+décoration, les rayons argentés de la lune, qui
+consolent les voyageurs de l'absence du plus bel
+<pb n="199"/>
+<br/>
+astre ; les étoiles, ces diamants de l'<pn>Olympe</pn>,
+dont l'éclat est relevé par le fond bleu auquel ils
+sont attachés ; ces beaux jours sans nuages, ces
+nuits plus belles encore qui inspirent les plus
+douces rêveries, nuits vertes des forêts, où l'âme,
+enchaînant ses pensées volages dans les bornes
+charmantes de l'amour, contente, recueillie, se
+caresse elle-même et ne se lasse point de contempler
+son bonheur : ombre impénétrable aux yeux
+des <pn>Argus</pn>, où il suffit d'être seul pour désirer
+d'être avec vous, <pn>Thémire</pn>, et d'être avec vous,
+pour oublier tout l'<pn>Univers</pn>. Que dirai-je enfin?
+toute la <pn>Nature</pn> est dans un coeur qui sent la
+volupté.
+</p>
+<p>
+Vous la sentez, <pn>Sapho</pn>, vous éprouvez l'empire
+de cette puissante <pn>Divinité</pn>. Mais quel singulier
+usage vous en faites! Vous refusez aux uns ce
+que vous ne pouvez accorder aux autres ; vous
+jouez le sexe que vous n'avez pas, pour chérir celui
+que vous avez. Amoureuse de votre sexe, vous
+voudriez en changer! Vous ne voyez pas que vous
+oubliez votre personnage, en faisant mal le nôtre,
+et que la <pn>Nature</pn> abusée en rougit.
+</p>
+<p>
+Ne nous élevons point contre cette usurpation;
+n'arrêtons point le cours d'un ruisseau, qui conduit
+tôt ou tard à sa source. Quand on prend de
+l'amour, on peut prendre une amante ; le plaisir
+se lasse de mentir. 
+<pb n="200"/>
+<br/>
+</p>
+<p>
+La vue des plaisirs d'autrui nous en donne. Avec
+quel air d'intérêt la curieuse <pn>Suzon</pn> regarde les
+mystères d'amour! Plus elle craint de troubler les
+prêtres qui les célèbrent, plus elle en est elle-même
+troublée ; mais ce trouble, cette émotion ravit
+son âme. Dans quel état la friponne est trouvée!
+trop attentive, pour n'être pas distraite, elle semble
+machinalement céder à la voluptueuse approche
+des doigts libertins.... Pour la désenchanter, il
+lui faudrait des plaisirs, tels sans doute que ceux
+dont elle a devant soi la séduisante image. L'amour
+se gagne à être vu de près.
+</p>
+<p>
+Oserais-je légèrement toucher des mystères
+secrets dont le seul nom offense <pn>Vénus</pn> et fait
+prendre les armes à tout <pn>Cythère</pn>, mais qui cependant
+ont quelquefois le bonheur de plaire à la
+<pn>Déesse</pn>, par l'heureuse application qu'on en fait?
+</p>
+<p>
+Le beau <pn>Giton</pn> gronde le <pn>Satyre</pn> qu'il a choisi
+pour ses plaisirs ; tout enfant qu'il est, il s'aperçoit
+bien de l'infidélité qu'<pn>Ascylthe</pn> lui a faite
+il donne à son mari plus de plaisir qu'une femme
+véritable ; est-il surprenant qu'il mette ses faveurs
+au plus haut prix, et que le plus joli cheval, le
+coursier de <pn>Macédoine</pn> le plus vite, puisse à
+peine les payer?
+</p>
+<p>
+Vous souvient-il de l'écolier de <pn>Pergame</pn>?
+grands <pn>Dieux</pn>! L'aimable enfant! La beauté serait-elle
+donc de tous les sexes? Rien ne limiterait
+<pb n="201"/>
+<br/>
+son empire? Que de déserteurs du culte de
+<pn>Cypris</pn>! Que de coeurs enlevés à <pn>Cythère</pn>! La
+déesse en conçoit une juste jalousie. Eh! Quel
+bon citoyen de l'ile charmante qu'elle a fondée
+ne soupirerait avec elle de toutes les conquêtes
+que fait le rivage ennemi? Beau sexe, cependant
+n'en soyez pas sa jaloux. <pn>Pétrone</pn> a moins voulu,
+dans l'excès de son raffinement, vous causer des
+inquiétudes que vous ménager des ressources contre
+l'ennuyeuse uniformité des plaisirs. En effet,
+combien d'amours petits ou timides (ceux-là
+sont si faciles à effaroucher) ont été bien aises de
+trouver un refuge, sans lequel, privés d'asile,
+ils seraient peut-être morts de frayeur à la porte
+du <pn>Temple</pn>! Combien d'autres, excités par une
+simple curiosité philosophique, rentrant ensuite
+dans leur devoir, ont si bien servi le véritable
+amour que, pour ses propres intérêts, ce <pn>Dieu</pn>
+des coeurs, en bon casuiste, n'a pu quelquefois
+se dispenser de leur accorder conditionnellement
+une indulgence dont il profitait.
+</p>
+<p>
+Vous avez de l'esprit, <pn>Céphise</pn>, et vous êtes
+révoltée par ces discours! Vous vous piquez d'être
+<pn>Philosophe</pn>, et vous vous feriez un scrupule
+d'user d'une ressource permise et autorisée par
+l'amour! Quels seraient donc vos préjugés, si,
+comme tant d'autres femmes, vous aviez le malheur
+de n'être que belle. Ah! Croyez-moi,
+<pb n="202"/>
+<br/>
+chère amante, tout est femme dans ce qu'on
+aime ; l'empire de l'amour ne reconnaît d'autres
+bornes que celles du plaisir!
+</p>
+<p>
+Je te rends, amour, le pinceau que tu m'as
+prêté, fais-le passer en des mains plus délicates;
+et toi, reste à jamais dans mon coeur.
+fin 
+
+</p>
+
+
+
+</div1>
+</text>
+</TEI.2>
+

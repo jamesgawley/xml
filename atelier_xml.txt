@@ -1,0 +1,53 @@
+Installing Python
+
+
+
+
+Classes, methods
+___ methods
+useful: print("{val}".format(val = "asdlfkj"))
+
+Importing a package
+Where to find them
+
+
+Inspecting a package
+	isfunction
+	isclass
+	getmembers
+
+XML
+What is a Tree structure?
+Each node has just one parent, and 0+ children)
+XML doc is a tree where each node is an element
+An element is a pair of tags
+	attributes
+	text
+	other elements
+
+
+Functions
+	fromstring
+	tostring
+	parse
+
+Parse gives us an ElementTree object
+Grab the root element with object's getroot() method
+Look at specific attribute values with .get()
+Get all the attributes with .attrib (property, not method)
+Set a new or replace an old attribute with .set(attribute_name, attribute_value)
+Save changes with .write() on the element tree object
+	It's fine if you were manipulating the root object separately
+	
+	
+To get all the elements with a tag, use .findall() on the tree object
+Delete attributes with del(attrib[''])
+
+Add elements with fromstring("<tag>text</tag>") which is a base method
+	then append it to the appropriate parent node object
+OR
+	
+	
+To find a specific element, 
+	
+	
